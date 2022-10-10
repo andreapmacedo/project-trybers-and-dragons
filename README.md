@@ -1,9 +1,4 @@
 # Português 🇧🇷🇵🇹
-
-<details>
-  <summary>
-    Saiba mais
-  </summary>
   
   # Trybers And Dragons
 Projeto da Trybe - Bloco 27 - Jogo de RPG com tema medieval feito com TypeScript.
